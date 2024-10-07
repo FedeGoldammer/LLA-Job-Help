@@ -14,6 +14,7 @@ const Footer = () => {
             <a href="https://www.indeed.com/career-advice/resumes-cover-letters/how-to-create-resume-pdf">https://www.indeed.com/career-advice/resumes-cover-letters/how-to-create-resume-pdf</a>
             <a href="https://www.elmhurst.edu/wp-content/uploads/2017/10/Elmhurst-College-Writing-An-Effective-Resume.pdf">https://www.elmhurst.edu/wp-content/uploads/2017/10/Elmhurst-College-Writing-An-Effective-Resume.pdf</a>
             <a href="https://www.santander.com/es/stories/las-10-claves-para-hacer-un-buen-curriculum-vitae">https://www.santander.com/es/stories/las-10-claves-para-hacer-un-buen-curriculum-vitae</a>
+            <a href="https://www.canterbury.ac.nz/content/dam/uoc-main-site/documents/pdfs/d-other/linkedin-cheat-sheet.pdf">https://www.canterbury.ac.nz/content/dam/uoc-main-site/documents/pdfs/d-other/linkedin-cheat-sheet.pdf</a>
         </div>
       </div>
       <div className="footer-section">

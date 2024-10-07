@@ -32,3 +32,15 @@
     margin: 30px auto;
     margin-bottom: 100px;
 }
+
+.fotoDiv {
+    display: flex;
+    flex-direction: row-reverse;
+    gap: 10px;
+}
+
+.fotoDiv img{
+    height: 200px;
+    width: auto;
+    border-radius: 5px;
+}
